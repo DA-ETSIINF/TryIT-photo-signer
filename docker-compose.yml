@@ -1,0 +1,5 @@
+script:
+  build: .
+  command: python3.5 tryit_photo_signer.py
+  volumes:
+    - .:/code
