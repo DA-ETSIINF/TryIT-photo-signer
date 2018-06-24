@@ -31,17 +31,6 @@ Projecto creado (muy rápido) para firmar las fotos (con el logo y el hastag del
 
 [![asciicast](https://asciinema.org/a/gKLfs5ZY4tStCzHlVTW8yqIAM.png)](https://asciinema.org/a/gKLfs5ZY4tStCzHlVTW8yqIAM)
 
-## Requisitos
-
-* Docker
-* Docker compose
-
-## Instalación
-
-### Host
-
-### Docker
-
 ## Configuración
 
 Crear las siguientes carpertas dentro de esta misma carpeta:
@@ -72,15 +61,49 @@ Hay una función, llamada `tryit_2018(...)`, en el fichero `tryit_photo_signer.p
 ## Ejecución
 
 ### Host
-TBD
+
+0. Tener lo siguiente instalado previamente:
+
+    * `python3.5`
+    * `pip3`
+
+1. Installar los paquetes de python necesarios.
+
+```bash
+$ pip3 install -r requirements.txt
+```
+
+2. Asegurarse de tener las carpetas `/photos_input` y `/photos_signed` creadas.
+
+3. Tener las fotos que se quieren firmar en `/photos_input`.
+
+4. Ejecutar con `python3.5`
+
+```bash
+$ python3.5 tryit_photo_signer.py
+```
 
 ### Docker
 
+0. Tener lo siguiente instalado previamente:
+
+    * `make`
+    * Docker
+        * Probado con: `Docker version 18.02.0-ce, build fc4de44`
+    * Docker compose
+        * Probado con: `docker-compose version 1.18.0, build 8dd22a9`
+
+2. Asegurarse de tener las carpetas `/photos_input` y `/photos_signed` creadas.
+
+3. Tener las fotos que se quieren firmar en `/photos_input`.
+
+4. Ejecutar con `make`. Ver el ejemplo de [TL;DR](#TL;DR) para mas detalle.
+
 ```bash
-$ docker-compose up
+$ make
 ```
 
-### TODO:
+### TODO
 
 - [ ] Fichero de configuración YAML
     - [ ] Carpeta donde cargar las fotos originales
