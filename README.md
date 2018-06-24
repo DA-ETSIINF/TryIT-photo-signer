@@ -20,7 +20,7 @@ TryIT-photo-signer
 </p>
 
 <h4 align="center">
-Projecto creado (muy rápido) para firmar las fotos (con el logo y el hastag del evento) hechas durante el evento llamado <a href="www.congresotryit.com">TryIT</a> en la <a href="www.etsiinf.upm.es">Escuela Técnica de Ingenieros Informáticos</a>.
+Proyecto creado (muy rápido) para firmar (con logo y hastag) las fotos hechas durante el evento llamado <a href="www.congresotryit.com">TryIT</a> de la <a href="www.etsiinf.upm.es">Escuela Técnica de Ingenieros Informáticos</a>.
 </h4>
 
 ## TL;DR
