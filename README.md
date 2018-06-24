@@ -38,10 +38,10 @@ Crear las siguientes carpertas dentro de esta misma carpeta:
 
 ### Fotos
 
-* `/photos_imputs`: Aquí se dejaran las fotos que queremos firmar. Sólo son válidas las siguientes extensiones: `.png`, `.jpg`.
+* `/photos_inputs`: Aquí se dejaran las fotos que queremos firmar. Sólo son válidas las siguientes extensiones: `.png`, `.jpg`.
 
 ```bash
-$ mkdir photos_imputs
+$ mkdir photos_inputs
 ```
 
 * `/photos_signed`: Aquí se dejaran las fotos firmadas

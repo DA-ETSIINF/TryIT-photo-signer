@@ -203,7 +203,7 @@ def tryit_2018(input_image_path, img_signed_folder_path):
 
 if __name__ == '__main__':
 
-    img_imput_folder_path = "photos_imput"
+    img_input_folder_path = "photos_input"
     img_signed_folder_path = "photos_signed"
     valid_ext = ['.png', '.jpg']
 
@@ -218,10 +218,10 @@ if __name__ == '__main__':
             exit(1)
 
 
-    if exists(img_imput_folder_path):
-        ldir = listdir(img_imput_folder_path)
+    if exists(img_input_folder_path):
+        ldir = listdir(img_input_folder_path)
         for f in ldir:
-            file_path = img_imput_folder_path + "/" + f
+            file_path = img_input_folder_path + "/" + f
             file_fatherpath, f = split(file_path)
             file_name, file_extension = splitext(file)
 
@@ -238,10 +238,10 @@ if __name__ == '__main__':
                 print("Unknown extension: " + file_path)
 
         if len(ldir) == 0:
-            print("There is no file in the folder: " + img_imput_folder_path)
+            print("There is no file in the folder: " + img_input_folder_path)
 
     else:
-        print("The folder does not exist: " + img_imput_folder_path)
+        print("The folder does not exist: " + img_input_folder_path)
         exit(1)
 
 
