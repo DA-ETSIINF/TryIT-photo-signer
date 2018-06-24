@@ -1,5 +1,23 @@
+<h1 align="center">
 TryIT-photo-signer
-==================
+</h1>
+
+<p align="center">
+    <a href="https://github.com/DA-ETSIINF/TryIT-photo-signer/blob/master/LICENSE">
+        <img alt="License MIT" src="https://img.shields.io/github/license/DA-ETSIINF/TryIT-photo-signer.svg?style=flat-square">
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/DA-ETSIINF/TryIT-photo-signer/issues">
+        <img alt="Issues" src="https://img.shields.io/github/issues/DA-ETSIINF/TryIT-photo-signer.svg?style=flat-square">
+    </a>
+    <a href="https://github.com/DA-ETSIINF/TryIT-photo-signer/stargazers">
+        <img alt="Stars" src="https://img.shields.io/github/stars/DA-ETSIINF/TryIT-photo-signer.svg?style=flat-square">
+    </a>
+    <a href="https://github.com/DA-ETSIINF/TryIT-photo-signer/network">
+        <img alt="Forks" src="https://img.shields.io/github/forks/DA-ETSIINF/TryIT-photo-signer.svg?style=flat-square">
+    </a>
+</p>
 
 Projecto creado (muy rápido) para firmar las fotos (con el logo y el hastag del evento) hechas durante el evento llamado [TryIT](www.congresotryit.com) en la [Escuela Técnica de Ingenieros Informáticos](www.etsiinf.upm.es).
 
