@@ -173,8 +173,8 @@ def tryit_2018(input_image_path, img_signed_folder_path):
     # TypeError: integer argument expected, got float
     newsize = (newsize_width, newsize_height)
 
-    file_fatherpath, file = split(input_image_path)
-    file_name, file_extension = splitext(file)
+    file_fatherpath, f = split(input_image_path)
+    file_name, file_extension = splitext(f)
     output_image_path = img_signed_folder_path + "/" + "TryIT_" + str(year) + "_" + file_name + "_signed" + file_extension
 
     watermark_text = '#TRYIT2018'
@@ -220,9 +220,9 @@ if __name__ == '__main__':
 
     if exists(img_imput_folder_path):
         ldir = listdir(img_imput_folder_path)
-        for file in ldir:
-            file_path = img_imput_folder_path + "/" + file
-            file_fatherpath, file = split(file_path)
+        for f in ldir:
+            file_path = img_imput_folder_path + "/" + f
+            file_fatherpath, f = split(file_path)
             file_name, file_extension = splitext(file)
 
             if file_name[0] == "." and \
