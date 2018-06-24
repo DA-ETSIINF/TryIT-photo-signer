@@ -223,7 +223,7 @@ if __name__ == '__main__':
         for f in ldir:
             file_path = img_input_folder_path + "/" + f
             file_fatherpath, f = split(file_path)
-            file_name, file_extension = splitext(file)
+            file_name, file_extension = splitext(f)
 
             if file_name[0] == "." and \
                     (file_name[-4:] == "_tmp" or "_tmp" in file_name):

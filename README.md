@@ -19,7 +19,17 @@ TryIT-photo-signer
     </a>
 </p>
 
-Projecto creado (muy rápido) para firmar las fotos (con el logo y el hastag del evento) hechas durante el evento llamado [TryIT](www.congresotryit.com) en la [Escuela Técnica de Ingenieros Informáticos](www.etsiinf.upm.es).
+<h4 align="center">
+Projecto creado (muy rápido) para firmar las fotos (con el logo y el hastag del evento) hechas durante el evento llamado <a href="www.congresotryit.com">TryIT</a> en la <a href="www.etsiinf.upm.es">Escuela Técnica de Ingenieros Informáticos</a>.
+</h4>
+
+## TL;DR
+
+| año | antes | despues |
+|:-:|:-:|:-:|
+| 2018 | `/photos_input` [![antes](./docs/photo_input_example.JPG)]() 6000x4000 pixels | `/photos_signed` [![despues](./docs/photo_signed_example.JPG)]() 1920x1280 pixels |
+
+[![asciicast](https://asciinema.org/a/gKLfs5ZY4tStCzHlVTW8yqIAM.png)](https://asciinema.org/a/gKLfs5ZY4tStCzHlVTW8yqIAM)
 
 ## Requisitos
 
@@ -38,10 +48,10 @@ Crear las siguientes carpertas dentro de esta misma carpeta:
 
 ### Fotos
 
-* `/photos_inputs`: Aquí se dejaran las fotos que queremos firmar. Sólo son válidas las siguientes extensiones: `.png`, `.jpg`.
+* `/photos_input`: Aquí se dejaran las fotos que queremos firmar. Sólo son válidas las siguientes extensiones: `.png`, `.jpg`.
 
 ```bash
-$ mkdir photos_inputs
+$ mkdir photos_input
 ```
 
 * `/photos_signed`: Aquí se dejaran las fotos firmadas

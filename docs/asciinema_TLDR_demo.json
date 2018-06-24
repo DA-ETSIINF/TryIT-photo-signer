@@ -1,0 +1,442 @@
+{
+  "command": null,
+  "height": 45,
+  "title": null,
+  "width": 78,
+  "duration": 35.424948,
+  "stdout": [
+    [
+      0.255637,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                             \r \r"
+    ],
+    [
+      4.5e-05,
+      "\u001b]2;svg153@radix-fijo: ~/REPOSITORIOS/TryIT-photo-signer\u0007\u001b]1;..-photo-signer\u0007"
+    ],
+    [
+      0.051346,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mTryIT-photo-signer\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m \u001b[K\u001b[24C\u001b[01;34mgit:(\u001b[31m\u001b[01;35mmaster\u001b[00m|\u001b[34m✚5\u001b[00m…\u001b[00m\u001b[00m\u001b[00m \u001b[40D"
+    ],
+    [
+      2.3e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.3e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.654345,
+      "l"
+    ],
+    [
+      0.102167,
+      "\bls"
+    ],
+    [
+      0.023916,
+      " "
+    ],
+    [
+      0.888418,
+      "."
+    ],
+    [
+      0.431957,
+      "/"
+    ],
+    [
+      0.592085,
+      "p"
+    ],
+    [
+      1.903936,
+      "h"
+    ],
+    [
+      0.151739,
+      "o"
+    ],
+    [
+      0.176042,
+      "\u001b[?7l\u001b[31m......\u001b[39m\u001b[?7h"
+    ],
+    [
+      0.027485,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mTryIT-photo-signer\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m ls ./photos_\u001b[K\u001b[12C\u001b[01;34mgit:(\u001b[31m\u001b[01;35mmaster\u001b[00m|\u001b[34m✚5\u001b[00m…\u001b[00m\u001b[00m\u001b[00m \u001b[28D"
+    ],
+    [
+      1.47679,
+      "i"
+    ],
+    [
+      0.199682,
+      "n"
+    ],
+    [
+      0.167858,
+      "\u001b[?7l\u001b[31m......\u001b[39m"
+    ],
+    [
+      3.6e-05,
+      "\u001b[?7h"
+    ],
+    [
+      0.009596,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mTryIT-photo-signer\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m ls ./photos_input\u001b[1m/\u001b[0m\u001b[K\u001b[6C\u001b[01;34mgit:(\u001b[31m\u001b[01;35mmaster\u001b[00m|\u001b[34m✚5\u001b[00m…\u001b[00m\u001b[00m\u001b[00m \u001b[22D"
+    ],
+    [
+      0.598398,
+      "\b\u001b[0m \b"
+    ],
+    [
+      4.6e-05,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      8.1e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000746,
+      "\u001b]2;ls --color=tty ./photos_input\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.002193,
+      "photo_input_example.JPG\r\n"
+    ],
+    [
+      4.6e-05,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                             \r \r"
+    ],
+    [
+      0.000159,
+      "\u001b]2;svg153@radix-fijo: ~/REPOSITORIOS/TryIT-photo-signer\u0007"
+    ],
+    [
+      4.8e-05,
+      "\u001b]1;..-photo-signer\u0007"
+    ],
+    [
+      0.065895,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mTryIT-photo-signer\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m \u001b[K\u001b[24C\u001b[01;34mgit:(\u001b[31m\u001b[01;35mmaster\u001b[00m|\u001b[34m✚5\u001b[00m…\u001b[00m\u001b[00m\u001b[00m \u001b[40D"
+    ],
+    [
+      4.2e-05,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.212203,
+      "ls ./photos_input"
+    ],
+    [
+      0.622634,
+      "\b \b"
+    ],
+    [
+      0.16803,
+      "\b \b"
+    ],
+    [
+      0.159824,
+      "\b \b"
+    ],
+    [
+      0.167974,
+      "\b \b"
+    ],
+    [
+      0.20002,
+      "\b \b"
+    ],
+    [
+      0.408375,
+      "s"
+    ],
+    [
+      0.223723,
+      "i"
+    ],
+    [
+      0.224011,
+      "g"
+    ],
+    [
+      0.135864,
+      "n"
+    ],
+    [
+      0.136216,
+      "e"
+    ],
+    [
+      0.240078,
+      "d"
+    ],
+    [
+      0.935956,
+      "\u001b[?7l\u001b[31m......\u001b[39m\u001b[?7h"
+    ],
+    [
+      0.009595,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mTryIT-photo-signer\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m ls ./photos_signed\u001b[1m/\u001b[0m\u001b[K\u001b[5C\u001b[01;34mgit:(\u001b[31m\u001b[01;35mmaster\u001b[00m|\u001b[34m✚5\u001b[00m…\u001b[00m\u001b[00m\u001b[00m \u001b[21D"
+    ],
+    [
+      0.590542,
+      "\b\u001b[0m \b"
+    ],
+    [
+      5.2e-05,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      4.7e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000673,
+      "\u001b]2;ls --color=tty ./photos_signed\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.002197,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                             \r \r"
+    ],
+    [
+      0.000163,
+      "\u001b]2;svg153@radix-fijo: ~/REPOSITORIOS/TryIT-photo-signer\u0007"
+    ],
+    [
+      5.4e-05,
+      "\u001b]1;..-photo-signer\u0007"
+    ],
+    [
+      0.070806,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mTryIT-photo-signer\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m \u001b[K\u001b[24C\u001b[01;34mgit:(\u001b[31m\u001b[01;35mmaster\u001b[00m|\u001b[34m✚5\u001b[00m…\u001b[00m\u001b[00m\u001b[00m \u001b[40D"
+    ],
+    [
+      8.3e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      8.5e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      2.613783,
+      "m"
+    ],
+    [
+      0.023737,
+      "\bma"
+    ],
+    [
+      0.12809,
+      "k"
+    ],
+    [
+      0.079705,
+      "e"
+    ],
+    [
+      0.120117,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      5.3e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000567,
+      "\u001b]2;make\u0007"
+    ],
+    [
+      2.8e-05,
+      "\u001b]1;make\u0007"
+    ],
+    [
+      1.287954,
+      "Building script\r\n"
+    ],
+    [
+      0.252818,
+      "Step 1/2 : FROM python:3.5-onbuild"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      2.145491,
+      "\u001b[2K\r3.5-onbuild: Pulling from library/python\r\r\n"
+    ],
+    [
+      0.591614,
+      "\u001b[2K\rDigest: sha256:1e02e908e95dd316dc6f95789bcb66ad370815e70725fa2da835d82d6ead84e3\r\r\n"
+    ],
+    [
+      0.036793,
+      "\u001b[2K\rStatus: Downloaded newer image for python:3.5-onbuild\r\r\n"
+    ],
+    [
+      0.002609,
+      "# Executing 3 build trigger"
+    ],
+    [
+      0.000204,
+      "s"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000561,
+      " ---> Using cache\r\n"
+    ],
+    [
+      0.163829,
+      " ---> Running in 4d22567246b2\r\n"
+    ],
+    [
+      1.620744,
+      "Collecting Pillow==5.1.0 (from -r requirements.txt (line 1))\r\n"
+    ],
+    [
+      0.499001,
+      "  Downloading https://files.pythonhosted.org/packages/07/52/8e27b9c54cb70d379244771a58483928b3a02db3c657d466ed84eb18f22b/Pillow-5.1.0-cp35-cp35m-manylinux1_x86_64.whl (2.0MB)\r\n"
+    ],
+    [
+      0.393565,
+      "Installing collected packages: Pillow\r\n"
+    ],
+    [
+      0.189009,
+      "Successfully installed Pillow-5.1.0\r\n"
+    ],
+    [
+      1.340168,
+      "Removing intermediate container 4d22567246b2\r\n"
+    ],
+    [
+      0.577038,
+      " ---> 4343be5d90bc\r\n"
+    ],
+    [
+      0.000173,
+      "Step 2/2 : LABEL maintainer=\"svg153\""
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.161326,
+      " ---> Running in 2bd282ca068a\r\n"
+    ],
+    [
+      0.329498,
+      "Removing intermediate container 2bd282ca068a\r\n"
+    ],
+    [
+      0.000277,
+      " ---> 62c4f8cbdfe3\r\n"
+    ],
+    [
+      0.050187,
+      "Successfully built 62c4f8cbdfe3\r\n"
+    ],
+    [
+      0.09257,
+      "Successfully tagged tryitphotosigner_script:latest\r\n"
+    ],
+    [
+      1.343593,
+      "Creating tryitphotosigner_script ... \r\r\n"
+    ],
+    [
+      1.066352,
+      "\u001b[1A\u001b[2K\rCreating tryitphotosigner_script ... \u001b[32mdone\u001b[0m\r\u001b[1B"
+    ],
+    [
+      0.052563,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                             \r \r"
+    ],
+    [
+      3.1e-05,
+      "\u001b]2;svg153@radix-fijo: ~/REPOSITORIOS/TryIT-photo-signer\u0007"
+    ],
+    [
+      1.9e-05,
+      "\u001b]1;..-photo-signer\u0007"
+    ],
+    [
+      0.043483,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mTryIT-photo-signer\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m \u001b[K\u001b[24C\u001b[01;34mgit:(\u001b[31m\u001b[01;35mmaster\u001b[00m|\u001b[34m✚5\u001b[00m…\u001b[00m\u001b[00m\u001b[00m \u001b[40D"
+    ],
+    [
+      2.2e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.1e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      2.909531,
+      "make"
+    ],
+    [
+      0.191514,
+      "\b\b\b\bls ./photos_signed"
+    ],
+    [
+      0.776263,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      3.9e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000604,
+      "\u001b]2;ls --color=tty ./photos_signed\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001961,
+      "TryIT_2018_photo_input_example_signed.JPG\r\n"
+    ],
+    [
+      0.000221,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                             \r \r"
+    ],
+    [
+      0.000204,
+      "\u001b]2;svg153@radix-fijo: ~/REPOSITORIOS/TryIT-photo-signer\u0007"
+    ],
+    [
+      0.000278,
+      "\u001b]1;..-photo-signer\u0007"
+    ],
+    [
+      0.070432,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mTryIT-photo-signer\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m \u001b[K\u001b[24C\u001b[01;34mgit:(\u001b[31m\u001b[01;35mmaster\u001b[00m|\u001b[34m✚5\u001b[00m…\u001b[00m\u001b[00m\u001b[00m \u001b[40D"
+    ],
+    [
+      3.1e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      9.9e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.966038,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ],
+  "version": 1,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  }
+}

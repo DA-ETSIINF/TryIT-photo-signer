@@ -1,5 +1,11 @@
-script:
-  build: .
-  command: python3.5 tryit_photo_signer.py
-  volumes:
-    - .:/code
+version: '3'
+services:
+  script:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: "tryitphotosigner_script"
+    working_dir: /home
+    command: python3.5 /home/tryit_photo_signer.py
+    volumes:
+      - "$PWD:/home"
