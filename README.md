@@ -95,8 +95,12 @@ $ docker-compose up
 
 ## Agradecimientos
 
-* [Mike](https://www.blog.pythonlibrary.org/author/mld/) por la entrada *[How to Watermark Your Photos with Python](https://www.blog.pythonlibrary.org/2017/10/17/how-to-watermark-your-photos-with-python/)* 
+* [Mike](https://www.blog.pythonlibrary.org/author/mld/) por la entrada *[How to Watermark Your Photos with Python](https://www.blog.pythonlibrary.org/2017/10/17/how-to-watermark-your-photos-with-python/)*
     * Creado: 17 de Octubre de 2017
     * Visto: 1 de Mayo de 2018
 
 ## Licencia
+
+[![LICENSE](https://img.shields.io/github/license/DA-ETSIINF/TryIT-photo-signer.svg)](https://github.com/DA-ETSIINF/TryIT-photo-signer/blob/master/LICENSE)
+
+Ver el fichero [LICENSE](https://github.com/DA-ETSIINF/TryIT-photo-signer/blob/master/LICENSE)
