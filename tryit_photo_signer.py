@@ -46,7 +46,7 @@ def add_watermark_text(input_image_path,
     # 0,0 ---> 1920,0
     #
     #
-    # 0,1280 --> 1920,0
+    # 0,1280 --> 1920,1280
     watermark_text_pos_real = (x_pos, y_pos)
     drawing.text(watermark_text_pos_real, watermark_text, fill=watermark_text_fill, font=watermark_text_font)
     photo.save(output_image_path)
